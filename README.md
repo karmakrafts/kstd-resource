@@ -1,2 +1,2 @@
 # kstd-resource
-Cross-platform resource embedding infrastructure for C++17/20.
+Cross-platform resource embedding infrastructure for CMake & C++17/20.
